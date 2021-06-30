@@ -2,8 +2,6 @@
 {
 "asset_id":
 "93b8e5ef-69fd-4ac1-863f-5ff1f9210554",
-"created":
-"2021-04-24T04:32:32.996828Z",
 "metadata":
 {
 "access":
@@ -17,24 +15,15 @@
 "2021-04-09T16:43:28.929798-04:00",
 "contentSize":
 297607244,
-"contentUrl":
-[
-"https://api.dandiarchive.org/api/dandisets/000069/versions/draft/assets/93b8e5ef-69fd-4ac1-863f-5ff1f9210554/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/dad/e76/dade768a-763e-4b6f-a7d1-f279aab1bf15"
-],
 "dateModified":
 "2021-04-24T00:32:32.436085-04:00",
 "digest":
 {
 "dandi:dandi-etag":
-"9a5d7190a9114c19549acd088ef51ffd-5",
-"dandi:sha2-256":
-"fe7ac132d5bcbb98ec351d057e261b84c1f44dd8212c87fe5a2d2a7118e79ed1"
+"9a5d7190a9114c19549acd088ef51ffd-5"
 },
 "encodingFormat":
 "application/x-nwb",
-"identifier":
-"93b8e5ef-69fd-4ac1-863f-5ff1f9210554",
 "keywords":
 [
 "barrel cortex",
@@ -111,7 +100,7 @@
 ]
 },
 "modified":
-"2021-05-18T13:15:25.177882Z",
+"2021-05-18T13:15:25.177882+00:00",
 "path":
 "sub-anm106211/sub-anm106211_behavior+icephys.nwb",
 "size":
