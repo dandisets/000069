@@ -39,7 +39,8 @@ description: 'just testing
   '
 id: DANDI:000069/draft
 identifier: DANDI:000069
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000069/versions/draft/assets/
 name: testing_2
 schemaKey: Dandiset
 schemaVersion: 0.4.4
