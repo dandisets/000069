@@ -44,6 +44,7 @@ identifier: DANDI:000069
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000069/versions/draft/assets/
 name: testing_2
+repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 url: https://dandiarchive.org/dandiset/000069/draft
